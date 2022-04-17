@@ -11,6 +11,7 @@ DATABASE NAME : phonebook_application
 TABLE NAME    : phonebook
 
 COLUMN        :
+
 id      INT           NOT NULL AUTO_INCREMENT,
 name    VARCHAR(100)  NOT NULL,
 number  VARCHAR(100)  NOT NULL
