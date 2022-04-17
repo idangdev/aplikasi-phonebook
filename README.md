@@ -6,6 +6,11 @@ This application uses the Java programming language using Clean Architecture and
 
 If you want to clone this project. Please create your own MySQL database with the following details:
 
+DATABASE NAME : phonebook_application
+
+TABLE NAME    : phonebook
+
+COLUMN        :
 id      INT           NOT NULL AUTO_INCREMENT,
 name    VARCHAR(100)  NOT NULL,
 number  VARCHAR(100)  NOT NULL
